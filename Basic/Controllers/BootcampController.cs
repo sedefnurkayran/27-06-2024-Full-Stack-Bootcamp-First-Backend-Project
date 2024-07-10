@@ -1,16 +1,11 @@
-
 using Basic.Models;
-
 using Microsoft.AspNetCore.Mvc;
-
-
 
 namespace Basic.Controllers
 {
 
     public class BootcampController : Controller
     {
-
         public IActionResult Details(int? id)
         {
             if (id == null)

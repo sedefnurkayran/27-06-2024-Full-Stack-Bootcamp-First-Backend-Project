@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA9F238-5E4C-4945-B720-F0DF66C64FA0}|Basic\\Basic.csproj|c:\\users\\sedef\\source\\repos\\27-06-2024-full-stack-bootcamp-first-backend-project\\basic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA9F238-5E4C-4945-B720-F0DF66C64FA0}|Basic\\Basic.csproj|solutionrelative:basic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA9F238-5E4C-4945-B720-F0DF66C64FA0}|Basic\\Basic.csproj|c:\\users\\sedef\\source\\repos\\27-06-2024-full-stack-bootcamp-first-backend-project\\basic\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA9F238-5E4C-4945-B720-F0DF66C64FA0}|Basic\\Basic.csproj|solutionrelative:basic\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Basic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Basic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:01:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Basic\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Models\\Repository.cs",
+              "RelativeToolTip": "Basic\\Models\\Repository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:58:58.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

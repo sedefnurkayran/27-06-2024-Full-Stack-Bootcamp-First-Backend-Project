@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj": {}
+    "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj": {
+    "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj",
+        "projectUniqueName": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj",
         "projectName": "Basic",
-        "projectPath": "c:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj",
+        "projectPath": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\Basic.csproj",
         "packagesPath": "C:\\Users\\Sedef\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\obj\\",
+        "outputPath": "C:\\Users\\Sedef\\source\\repos\\27-06-2024-Full-Stack-Bootcamp-First-Backend-Project\\Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sedef\\AppData\\Roaming\\NuGet\\NuGet.Config",

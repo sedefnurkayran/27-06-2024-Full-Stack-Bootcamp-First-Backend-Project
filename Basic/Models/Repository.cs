@@ -12,7 +12,7 @@ namespace Basic.Models
 
             _bootcamps = new List<Bootcamp>()
             {
-new Bootcamp() {Id = 1,
+                new Bootcamp() {Id = 1,
                                Title = "Full Stack Bootcamp",
                                Description ="Bootcamp süreci başladı.",
                                Image = "1.png",
@@ -41,7 +41,7 @@ new Bootcamp() {Id = 1,
 
         }
 
-        public static List<Bootcamp> Bootcamps //burda neden farkli isimlendirdik? 
+        public static List<Bootcamp> Bootcamps
         {
             get
             {
@@ -52,14 +52,11 @@ new Bootcamp() {Id = 1,
 
         }
 
-        public static Bootcamp? GetById(int id)
+        public static Bootcamp? GetById(int? id)
         {
             return _bootcamps.FirstOrDefault(b => b.Id == id);
         }
 
-        internal static object GetById(int? id)
-        {
-            throw new NotImplementedException();
-        }
+
     }
 }
