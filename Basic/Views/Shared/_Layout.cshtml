@@ -17,7 +17,15 @@
            @RenderBody()
         </main>
     </div>
+<footer>
+    <div>
+        @await RenderSectionAsync("Footer", required: false)
+        @* @RenderSection("Footer",false) *@ 
 
+         <p>&copy; 2024 Full-Stack Bootcamp. All rights reserved.</p>
+    </div>
+     
+</footer>
 
 </body>
 </html>

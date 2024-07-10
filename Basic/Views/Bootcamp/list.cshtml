@@ -4,6 +4,11 @@
 @await Html.PartialAsync("_Header")
 } *@
 
+@section Footer{
+   <p>This is a section example </p>
+}
+
+
 @foreach (var bootcamp in Model)
 {
    @if(bootcamp.isActive){
