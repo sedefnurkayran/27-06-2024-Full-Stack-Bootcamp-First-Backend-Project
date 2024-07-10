@@ -1,5 +1,9 @@
 @model List<Bootcamp>
 
+@* @section Header{
+@await Html.PartialAsync("_Header")
+} *@
+
 @foreach (var bootcamp in Model)
 {
    @if(bootcamp.isActive){

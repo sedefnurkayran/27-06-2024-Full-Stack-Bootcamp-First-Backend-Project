@@ -4,35 +4,34 @@ namespace Basic.Models
 {
     public class Repository
     {
-        //private static readonly List<Bootcamp> _bootcamps = new List<Bootcamp>();
-        private static readonly List<Bootcamp> _bootcamps = new();
+        private static readonly List<Bootcamp> _bootcamps = new(); //new List<Bootcamp>() ifadesinin kısaltmasi
 
-        static Repository() //Static ile basladik tek satirda yazmadik bu da farkli yazim mi?
+        static Repository() //Constructor. _bootcamps listesini başlatir.
         {
 
             _bootcamps = new List<Bootcamp>()
             {
                 new Bootcamp() {Id = 1,
-                               Title = "Full Stack Bootcamp",
-                               Description ="Bootcamp süreci başladı.",
+                               Title = "DevOps Mastery Bootcamp",
+                               Description ="Bootcamp process has been started.",
                                Image = "1.png",
-                               Tags = new string[]{"html","web geliştirme"},
+                               Tags = new string[]{"html","The DevOps lifecycle"},
                                isActive = true,
                                isHome = true
                                },
                 new Bootcamp() {Id = 2,
-                               Title = "Game Bootcamp",
-                               Description ="Bootcamp süreci başladı.",
+                               Title = "Java+Spring 101 Bootcamp",
+                               Description ="Bootcamp process has been started.",
                                Image = "2.png",
-                               Tags = new string[]{"game","web geliştirme"},
+                               Tags = new string[]{"java","Spring","web development"},
                                isActive = true,
                                isHome = true
                                },
                 new Bootcamp() {Id = 3,
-                                Title = "Backend Bootcamp",
-                                Description ="Bootcamp süreci başladı.",
+                                Title = "Swift UI Bootcamp",
+                                Description ="Bootcamp process has been started.",
                                 Image = "3.png",
-                                Tags = new string[]{"asp.net","web geliştirme"},
+                                Tags = new string[]{"swift ui","mobile development"},
                                 isActive = true,
                                 isHome = false
                                 },
