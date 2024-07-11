@@ -18,5 +18,5 @@ The main features of ASP.NET Core are as follows:
   <a asp-controller="Bootcamp" asp-action="Details" asp-route-id = "@Model.Id">
 
 🦋Repository Design Pattern: It is a structural design pattern that acts as an intermediary between the data source and the application. The Repository design pattern contains the methods required to perform CRUD (Create, Read, Update, Delete) operations on the data source.
-🦋Constructor Method: It is used to set the initial state of the object and assign the required initial values. It has the same name as the class name and has no return type.
+🦋Constructor Method: It is used to set the initial state of the object and assign the required initial values. It has the same name as the class name and has no return type. Constructor method is used to create objects and is the first method called when an object is created.
 🦋Razor Syntax: Using Html and C# codes together in MVC projects is called Razor Syntax.
