@@ -1,4 +1,6 @@
 # 27-06-2024-Full-Stack-Bootcamp-First-Backend-Project
+In this project, general features of ASP.Net Core and MVC structure are examined. PartialView, RenderSection and Repository class concepts are discussed and listing and detail pages are created.
+
 🦋ASP.NET Core, a framework for developing web applications and services, is a redesigned version of ASP.NET MVC and ASP.NET Web API, combining them into a single programming model.
 The main features of ASP.NET Core are as follows:
 🍀 Open source and free.
